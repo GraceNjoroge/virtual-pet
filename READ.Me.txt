@@ -1,0 +1,36 @@
+READ.ME Virtual pet project
+
+My Virtual Pet of choice is Balsam the Koala!
+
+Caring for the Virtual Pet
+Like all pets, Balsam has needs and emotions. It gets hungry, so it will need to be fed. To keep it happy and not bored it will need to be played with and since it’s a Koala, it loves taking naps
+Pet characteristics: 
+hunger
+This text box will display a number to show how hungry the pet is.
+
+Play
+This text box will display a number to show when the pet wants to play and how playing affects hunger levels
+
+eat
+This text box will display when the pet needs to eat
+
+Interacting with the pet
+There are prompts to enable interaction with the pet. Each button is set to ONCE. 
+
+Start
+This prompt will start the Personal Pet program.
+
+feed
+This prompt will allow to feed the Personal Pet so that it is not hungry.
+
+play
+This prompt will allow to play with the virtual Pet to make it happy, more hungry and sleepy.
+
+sleep
+This prompt will allow for the Koala to sleep
+
+Entering procedures for interacting with pet
+
+I will write code to set starting values. For example, the virtual Pet begins with a Hunger level of 20.
+
+If it plays, hunger level increases by 25. If hunger level exceeds 50, the pet (balsam) will die from hunger and stop the game. 
